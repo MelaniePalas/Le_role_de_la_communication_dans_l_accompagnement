@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="le_role_de_la_communication_dans_accompagnement" />
+              <option name="title_text" value="Le r&amp;#244;le de la communication dans l&amp;#39;accompagnement" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -71,7 +71,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="true" />
           <option name="settings" value="true" />
-          <option name="fullScreenToggle" value="true" />
+          <option name="fullScreenToggle" value="false" />
           <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
@@ -109,7 +109,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
@@ -134,7 +134,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -159,7 +159,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -184,7 +184,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -209,7 +209,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -1613,6 +1613,14 @@
         </slidelink>
         <slidelink slideid="_player.6ZOGHBe158X" displaytext="Quiz" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.6ZOGHBe158X.6VqB7pCFQKr" displaytext="Diapositive sans titre" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.68yB3qhGpmN" displaytext="Qu1" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.6RIJuFfhDaJ" displaytext="Qu2" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.6nkmcwVP0lv" displaytext="Qu3" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.64MUkXOUAgU" displaytext="Diapositive sans titre" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.5xyPKdTeqM7" displaytext="Diapositive sans titre" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.6oJ14u1LRhy" displaytext="Qu2" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOGHBe158X.68f3AITT5TQ" displaytext="Diapositive sans titre" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOGHBe158X.5WdOXj7wYFV" displaytext="Scène 4 - Diapo 8" expand="false" type="slide" />
           </links>
         </slidelink>
